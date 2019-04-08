@@ -1,7 +1,5 @@
 ># coding=UTF-8
-
 import requests
-
 data = {'q': "类库",
         "from":"Auto",
         "to":"Auto"}
