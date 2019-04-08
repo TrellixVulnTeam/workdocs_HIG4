@@ -1,4 +1,5 @@
-># coding=UTF-8
+'''
+# coding=UTF-8
 import requests
 data = {'q': "类库",
         "from":"Auto",
@@ -12,3 +13,4 @@ hearders = {
 }
 res = requests.post("https://aidemo.youdao.com/trans", data=data)
 print res.text
+'''
